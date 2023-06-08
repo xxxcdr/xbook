@@ -9,7 +9,7 @@ import ChatGptIcon from "../icons/chatbooklogoda.svg"; //左上角图标logo
 import AddIcon from "../icons/add.svg";
 // import ZiliaokuIcon from "../icons/ziliaoku.svg"; // 添加资料库新按钮在此处
 import CloseIcon from "../icons/close.svg";
-import MaskIcon from "../icons/mofamao3.svg";
+import MaskIcon from "../icons/book.svg";
 import PluginIcon from "../icons/plugin.svg";
 
 import Locale from "../locales";
