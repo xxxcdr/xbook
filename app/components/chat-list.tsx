@@ -1,5 +1,5 @@
 import DeleteIcon from "../icons/delete.svg";
-import BotIcon from "../icons/mofashi2929.svg";
+import BotIcon from "../icons/chatbook2929.svg";
 
 import styles from "./home.module.scss";
 import {
