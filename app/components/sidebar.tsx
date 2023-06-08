@@ -4,7 +4,7 @@ import styles from "./home.module.scss";
 
 import { IconButton } from "./button";
 import SettingsIcon from "../icons/settings.svg";
-import GithubIcon from "../icons/diqiubucuo1.svg"; //左下角地图图标跳转星球
+import GithubIcon from "../icons/book.svg"; //左下角地图图标跳转星球
 import ChatGptIcon from "../icons/chatbooklogoda.svg"; //左上角图标logo
 import AddIcon from "../icons/add.svg";
 // import ZiliaokuIcon from "../icons/ziliaoku.svg"; // 添加资料库新按钮在此处

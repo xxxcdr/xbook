@@ -1,6 +1,6 @@
 import React from "react";
 import { IconButton } from "./button";
-import GithubIcon from "../icons/diqiubucuo1.svg";
+import GithubIcon from "../icons/book.svg"; //报错出现的图标
 import ResetIcon from "../icons/reload.svg";
 import { ISSUE_URL } from "../constant";
 import Locale from "../locales";
