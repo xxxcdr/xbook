@@ -5,9 +5,9 @@ import styles from "./home.module.scss";
 import { IconButton } from "./button";
 import SettingsIcon from "../icons/settings.svg";
 import GithubIcon from "../icons/diqiubucuo1.svg"; //左下角地图图标跳转星球
-import ChatGptIcon from "../icons/gptmanlogoda.svg"; //左上角图标logo
+import ChatGptIcon from "../icons/chatbooklogoda.svg"; //左上角图标logo
 import AddIcon from "../icons/add.svg";
-import ZiliaokuIcon from "../icons/ziliaoku.svg"; // 添加资料库新按钮在此处
+// import ZiliaokuIcon from "../icons/ziliaoku.svg"; // 添加资料库新按钮在此处
 import CloseIcon from "../icons/close.svg";
 import MaskIcon from "../icons/mofamao3.svg";
 import PluginIcon from "../icons/plugin.svg";
@@ -22,7 +22,7 @@ import {
   NARROW_SIDEBAR_WIDTH,
   Path,
   REPO_URL,
-  ZILIAOKU_URL, // 添加资料库新按钮引用一下URL在此处
+  // ZILIAOKU_URL, // 添加资料库新按钮引用一下URL在此处
 } from "../constant";
 
 import { Link, useNavigate } from "react-router-dom";
@@ -149,13 +149,6 @@ export function SideBar(props: { className?: string }) {
           <div className={styles["sidebar-action"]}>
             <a href={REPO_URL} target="_blank">
               <IconButton icon={<GithubIcon />} shadow />
-            </a>
-          </div>
-          <div className={styles["sidebar-action"]}>
-            <a href={ZILIAOKU_URL} target="_blank">
-              {" "}
-              {/*添加资料库新按钮在此处*/}
-              <IconButton icon={<ZiliaokuIcon />} shadow />
             </a>
           </div>
         </div>
