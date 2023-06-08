@@ -238,7 +238,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f481",
-    name: "《商业模式画布》",
+    name: "创业计划书",
     context: [
       {
         role: "user",
@@ -267,7 +267,9 @@ Afterwards, reply to the user's request in Mandarin Chinese.\n",
       },
       {
         role: "assistant",
-        content: "你好，请用提示语调出与我对话的格式并修改后与我对话",
+        content:
+          "你好，请说出你的创业想法。\n\
+        示例：我想开一家咖啡厅",
         date: "",
       },
     ],
