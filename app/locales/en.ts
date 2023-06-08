@@ -201,7 +201,7 @@ const en: LocaleType = {
     Name: "Plugin",
   },
   Mask: {
-    Name: "book",
+    Name: "AI-book",
     Page: {
       Title: "Prompt Template",
       SubTitle: (count: number) => `${count} prompt templates`,
@@ -230,8 +230,8 @@ const en: LocaleType = {
   NewChat: {
     Return: "Return",
     Skip: "Skip",
-    Title: "Pick a Mask",
-    SubTitle: "Chat with the Soul behind the Mask",
+    Title: "Pick a book",
+    SubTitle: "Chat with the Soul behind the book",
     More: "Find More",
     NotShow: "Not Show Again",
     ConfirmNoShow: "Confirm to disable？You can enable it in settings later.",
