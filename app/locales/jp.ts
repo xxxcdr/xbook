@@ -33,7 +33,7 @@ const jp: LocaleType = {
     Send: "送信",
     Config: {
       Reset: "重置默认",
-      SaveAs: "另存为角色",
+      SaveAs: "另存为AI-Book",
     },
   },
   Export: {
@@ -104,8 +104,8 @@ const jp: LocaleType = {
       SubTitle: "在预览气泡中预览 Markdown 内容",
     },
     Mask: {
-      Title: "角色启动页",
-      SubTitle: "新建聊天时，展示角色启动页",
+      Title: "书架启动页",
+      SubTitle: "新建聊天时，展示书架启动页",
     },
     Prompt: {
       Disable: {
@@ -200,11 +200,11 @@ const jp: LocaleType = {
   },
   Plugin: { Name: "插件" },
   Mask: {
-    Name: "角色",
+    Name: "AI-Book",
     Page: {
-      Title: "预设角色",
-      SubTitle: (count: number) => `${count} 个预设角色定义`,
-      Search: "搜索角色",
+      Title: "预设AI-Book",
+      SubTitle: (count: number) => `${count} 个预设AI-Book定义`,
+      Search: "搜索AI-Book",
       Create: "新建",
     },
     Item: {
@@ -217,20 +217,20 @@ const jp: LocaleType = {
     },
     EditModal: {
       Title: (readonly: boolean) =>
-        `编辑预设角色 ${readonly ? "（只读）" : ""}`,
+        `编辑预设AI-Book ${readonly ? "（只读）" : ""}`,
       Download: "下载预设",
       Clone: "克隆预设",
     },
     Config: {
-      Avatar: "角色头像",
-      Name: "角色名称",
+      Avatar: "AI-Book头像",
+      Name: "AI-Book名称",
     },
   },
   NewChat: {
     Return: "返回",
     Skip: "跳过",
-    Title: "挑选一个角色",
-    SubTitle: "现在开始，与角色背后的灵魂思维碰撞",
+    Title: "挑选一本书",
+    SubTitle: "现在开始，与书籍背后的灵魂思维碰撞",
     More: "搜索更多",
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",

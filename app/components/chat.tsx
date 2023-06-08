@@ -661,7 +661,7 @@ export function Chat() {
           const showTyping = message.preview || message.streaming;
 
           if (i > 0) {
-            //隐藏预设角色系统指令或魔法棒的第N条，其中0为第一条以此类推
+            //隐藏预设AI-Book系统指令或提示语的第N条，其中0为第一条以此类推
             return (
               <div
                 key={i}
@@ -790,7 +790,7 @@ export function Chat() {
     </div>
   );
 } */}
-      {/* 优化魔法棒的点击 */}
+      {/* 优化提示语的点击 */}
       <div className={styles["chat-input-panel"]}>
         <PromptHints prompts={promptHints} onPromptSelect={onPromptSelect} />
 

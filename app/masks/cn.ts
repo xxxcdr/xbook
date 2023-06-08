@@ -267,7 +267,7 @@ Afterwards, reply to the user's request in Mandarin Chinese.\n",
       },
       {
         role: "assistant",
-        content: "你好，请用魔法棒调出与我对话的格式并修改后与我对话",
+        content: "你好，请用提示语调出与我对话的格式并修改后与我对话",
         date: "",
       },
     ],

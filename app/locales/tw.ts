@@ -32,7 +32,7 @@ const tw: LocaleType = {
     Send: "發送",
     Config: {
       Reset: "重置默认",
-      SaveAs: "另存为角色",
+      SaveAs: "另存为AI-Book",
     },
   },
   Export: {
@@ -101,22 +101,22 @@ const tw: LocaleType = {
       SubTitle: "在预览气泡中预览 Markdown 内容",
     },
     Mask: {
-      Title: "角色启动页",
-      SubTitle: "新建聊天时，展示角色启动页",
+      Title: "书架启动页",
+      SubTitle: "新建聊天时，展示书架启动页",
     },
     Prompt: {
       Disable: {
-        Title: "停用魔法棒自動補齊",
+        Title: "停用提示语自動補齊",
         SubTitle: "在輸入框開頭輸入 / 即可觸發自動補齊",
       },
-      List: "自定義魔法棒列表",
+      List: "自定義提示语列表",
       ListCount: (builtin: number, custom: number) =>
         `內建 ${builtin} 條，用戶定義 ${custom} 條`,
       Edit: "編輯",
       Modal: {
-        Title: "魔法棒列表",
+        Title: "提示语列表",
         Add: "新增一條",
-        Search: "搜尋魔法棒",
+        Search: "搜尋提示语",
       },
     },
     HistoryCount: {
@@ -193,11 +193,11 @@ const tw: LocaleType = {
   },
   Plugin: { Name: "插件" },
   Mask: {
-    Name: "角色",
+    Name: "AI-Book",
     Page: {
-      Title: "预设角色",
-      SubTitle: (count: number) => `${count} 个预设角色定义`,
-      Search: "搜索角色",
+      Title: "预设AI-Book",
+      SubTitle: (count: number) => `${count} 个预设AI-Book定义`,
+      Search: "搜索AI-Book",
       Create: "新建",
     },
     Item: {
@@ -210,20 +210,20 @@ const tw: LocaleType = {
     },
     EditModal: {
       Title: (readonly: boolean) =>
-        `编辑预设角色 ${readonly ? "（只读）" : ""}`,
+        `编辑预设AI-Book ${readonly ? "（只读）" : ""}`,
       Download: "下载预设",
       Clone: "克隆预设",
     },
     Config: {
-      Avatar: "角色头像",
-      Name: "角色名称",
+      Avatar: "AI-Book头像",
+      Name: "AI-Book名称",
     },
   },
   NewChat: {
     Return: "返回",
     Skip: "跳过",
-    Title: "挑选一个角色",
-    SubTitle: "现在开始，与角色背后的灵魂思维碰撞",
+    Title: "挑选一本书",
+    SubTitle: "现在开始，与书籍背后的灵魂思维碰撞",
     More: "搜索更多",
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
