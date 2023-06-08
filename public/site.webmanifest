@@ -1,6 +1,6 @@
 {
-    "name": "GPTMAN Club",  //电脑桌面快捷方式可以看到的名字
-    "short_name": "GPTMAN", //手机桌面快捷方式可以看到的名字
+    "name": "Chat Book",  //电脑桌面快捷方式可以看到的名字
+    "short_name": "Chat Book", //手机桌面快捷方式可以看到的名字
     "icons": [
       {
         "src": "/gptmanlogo192*192.png",
