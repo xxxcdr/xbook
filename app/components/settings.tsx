@@ -377,7 +377,7 @@ export function Settings() {
             ></input>
           </ListItem>
 
-          <ListItem
+          {/* <ListItem   //假设：隐藏设置中显示书架的选项
             title={Locale.Settings.Mask.Title}
             subTitle={Locale.Settings.Mask.SubTitle}
           >
@@ -392,7 +392,7 @@ export function Settings() {
                 )
               }
             ></input>
-          </ListItem>
+          </ListItem> */}
         </List>
 
         <List>
