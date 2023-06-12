@@ -118,7 +118,7 @@ export function NewChat() {
           text={Locale.NewChat.Return}
           onClick={() => navigate(Path.Home)}
         ></IconButton>
-        {/* {!state?.fromHome && (  //测试：隐藏不再展示这个按钮
+        {/* {!state?.fromHome && (  //隐藏‘不再展示’这个按钮
           <IconButton
             text={Locale.NewChat.NotShow}
             onClick={() => {
