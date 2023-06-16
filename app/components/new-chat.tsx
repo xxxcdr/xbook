@@ -132,7 +132,7 @@ export function NewChat() {
           ></IconButton>
         )} */}
       </div>
-      <div className={styles["mask-cards"]}>
+      {/* <div className={styles["mask-cards"]}>  //注释角色页面的3个大图标
         <div className={styles["mask-card"]}>
           <EmojiAvatar avatar="1f495" size={24} />
         </div>
@@ -142,7 +142,7 @@ export function NewChat() {
         <div className={styles["mask-card"]}>
           <EmojiAvatar avatar="1f917" size={24} />
         </div>
-      </div>
+      </div> */}
 
       <div className={styles["title"]}>{Locale.NewChat.Title}</div>
       <div className={styles["sub-title"]}>{Locale.NewChat.SubTitle}</div>
