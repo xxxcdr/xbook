@@ -29,7 +29,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f315",
     name: "《世界观》",
     context: [
       {
@@ -76,7 +76,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f3d6",
     name: "《高效休息》",
     context: [
       {
@@ -117,7 +117,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f344",
     name: "《影响力》",
     context: [
       {
@@ -164,7 +164,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f40f",
     name: "《苏东坡传》",
     context: [
       {
@@ -201,7 +201,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f4aa",
     name: "《自卑与超越》",
     context: [
       {
@@ -242,7 +242,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f97",
     name: "《清单革命》",
     context: [
       {
