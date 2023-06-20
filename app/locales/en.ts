@@ -11,7 +11,7 @@ const en: LocaleType = {
     ChatItemCount: (count: number) => `${count} messages`,
   },
   Chat: {
-    SubTitle: (count: number) => `${count} messages with Chat Book`,
+    SubTitle: (count: number) => `${count} messages with ChatBOOK`,
     Actions: {
       ChatList: "Go To Chat List",
       CompressedHistory: "Compressed History Memory Prompt",
@@ -41,7 +41,7 @@ const en: LocaleType = {
     Copy: "Copy All",
     Download: "Download",
     MessageFromYou: "Message From You",
-    MessageFromChatGPT: "Message From Chat Book",
+    MessageFromChatGPT: "Message From ChatBOOK",
   },
   Memory: {
     Title: "Memory Prompt",
