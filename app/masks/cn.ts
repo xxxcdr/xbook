@@ -242,7 +242,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f972",
+    avatar: "23f0",
     name: "《清单革命》",
     context: [
       {
