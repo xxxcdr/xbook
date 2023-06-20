@@ -76,7 +76,7 @@ export const CN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "1f3dd",
+    avatar: "1f9d8",
     name: "《高效休息》",
     context: [
       {
