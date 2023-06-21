@@ -317,11 +317,7 @@ export function MaskPage() {
                   </div>
                   {/* </div> */}
                 </div>
-                <div
-                  className={styles["mask-actions"]}
-                  style={{ whiteSpace: "nowrap" }}
-                >
-                  {/* 上面是测试是否可以摘同一行显示 */}
+                <div className={styles["mask-actions"]}>
                   <IconButton
                     icon={<AddIcon />}
                     text={Locale.Mask.Item.Chat}
