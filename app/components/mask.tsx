@@ -309,7 +309,7 @@ export function MaskPage() {
                     <MaskAvatar mask={m} />
                   </div>
                   <div className={styles["mask-title"]}>
-                    <div className={styles["mask-name"]}>{m.name}</div>
+                    {/* <div className={styles["mask-name"]}>{m.name}</div> */}
                     {/* <div className={styles["mask-info"] + " one-line"}> //隐藏这段内容的格式 */}
                     {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
                       Locale.Settings.Lang.Options[m.lang]
