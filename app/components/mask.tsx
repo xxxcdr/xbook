@@ -269,9 +269,9 @@ export function MaskPage() {
               autoFocus
               onInput={(e) => onSearch(e.currentTarget.value)}
             />
-            <select
+            {/* <select
               className={styles["mask-filter-lang"]}
-              value={filterLang ?? Locale.Settings.Lang.All}
+              value={filterLang ?? Locale.Settings.Lang.All} 
               // onChange={(e) => {
               //   const value = e.currentTarget.value;
               //   if (value === Locale.Settings.Lang.All) {
@@ -279,7 +279,7 @@ export function MaskPage() {
               //   } else {
               //     setFilterLang(value as Lang);
               //   }
-              // }}  //隐藏所有语言选项
+              // }}  //隐藏所有语言里面的内容，让选项失效但没有消失
             >
               <option key="all" value={Locale.Settings.Lang.All}>
                 {Locale.Settings.Lang.All}
@@ -289,7 +289,7 @@ export function MaskPage() {
                   {Locale.Settings.Lang.Options[lang]}
                 </option>
               ))}
-            </select>
+            </select> //测试隐藏所有语言的按钮 */}
 
             <div className={styles["mask-create"]}>
               {/* <IconButton  //新建AI-Book（面具）按钮选项，注释后已隐藏
