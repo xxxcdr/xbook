@@ -28,11 +28,11 @@ async function fetchCN() {
 const jsonTemp = [
   {
     "act": "提问",
-    "prompt": "可以帮我解读这本书吗？\n"
+    "prompt": "-\n"
   },
   {
     "act": "提问",
-    "prompt": "帮我用表格呈现。\n"
+    "prompt": "-\n"
   },
   // {
   //   "act": "基础",
