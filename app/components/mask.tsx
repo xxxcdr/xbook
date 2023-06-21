@@ -270,7 +270,7 @@ export function MaskPage() {
               onInput={(e) => onSearch(e.currentTarget.value)}
             />
             <select
-              className={styles["mask-filter-lang"]}
+              // className={styles["mask-filter-lang"]}
               value={filterLang ?? Locale.Settings.Lang.All}
               onChange={(e) => {
                 const value = e.currentTarget.value;
@@ -310,10 +310,11 @@ export function MaskPage() {
                   </div>
                   <div className={styles["mask-title"]}>
                     <div className={styles["mask-name"]}>{m.name}</div>
-                    {/* <div className={styles["mask-info"] + " one-line"}> */}
-                    {`${Locale.Mask.Item.Info(m.context.length)} / ${
+                    <div className={styles["mask-info"] + " one-line"}>
+                      {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
                       Locale.Settings.Lang.Options[m.lang]
-                    } / ${m.modelConfig.model}`}
+                    } / ${m.modelConfig.model}`} */}
+                    </div>
                   </div>
                 </div>
                 <div className={styles["mask-actions"]}>
