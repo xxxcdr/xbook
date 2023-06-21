@@ -310,12 +310,12 @@ export function MaskPage() {
                   </div>
                   <div className={styles["mask-title"]}>
                     <div className={styles["mask-name"]}>{m.name}</div>
-                    <div className={styles["mask-info"] + " one-line"}>
-                      {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
+                    {/* <div className={styles["mask-info"] + " one-line"}> //隐藏这段内容的格式 */}
+                    {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
                       Locale.Settings.Lang.Options[m.lang]
                     } / ${m.modelConfig.model}`} //隐藏预设制和用了什么模型这一段话 */}
-                    </div>
                   </div>
+                  {/* </div> */}
                 </div>
                 <div className={styles["mask-actions"]}>
                   <IconButton
