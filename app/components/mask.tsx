@@ -272,14 +272,14 @@ export function MaskPage() {
             {/* <select
               className={styles["mask-filter-lang"]}
               value={filterLang ?? Locale.Settings.Lang.All} 
-              // onChange={(e) => {
-              //   const value = e.currentTarget.value;
-              //   if (value === Locale.Settings.Lang.All) {
-              //     setFilterLang(undefined);
-              //   } else {
-              //     setFilterLang(value as Lang);
-              //   }
-              // }}  //隐藏所有语言里面的内容，让选项失效但没有消失
+              onChange={(e) => {
+                const value = e.currentTarget.value;
+                if (value === Locale.Settings.Lang.All) {
+                  setFilterLang(undefined);
+                } else {
+                  setFilterLang(value as Lang);
+                }
+              }}  
             >
               <option key="all" value={Locale.Settings.Lang.All}>
                 {Locale.Settings.Lang.All}
@@ -309,7 +309,7 @@ export function MaskPage() {
                     <MaskAvatar mask={m} />
                   </div>
                   <div className={styles["mask-title"]}>
-                    {/* <div className={styles["mask-name"]}>{m.name}</div> */}
+                    <div className={styles["mask-name"]}>{m.name}</div>
                     {/* <div className={styles["mask-info"] + " one-line"}> //隐藏这段内容的格式 */}
                     {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
                       Locale.Settings.Lang.Options[m.lang]
