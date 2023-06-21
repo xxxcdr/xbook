@@ -271,15 +271,15 @@ export function MaskPage() {
             />
             <select
               className={styles["mask-filter-lang"]}
-              // value={filterLang ?? Locale.Settings.Lang.All} //隐藏所有语言这一段
-              onChange={(e) => {
-                const value = e.currentTarget.value;
-                if (value === Locale.Settings.Lang.All) {
-                  setFilterLang(undefined);
-                } else {
-                  setFilterLang(value as Lang);
-                }
-              }}
+              value={filterLang ?? Locale.Settings.Lang.All}
+              // onChange={(e) => {
+              //   const value = e.currentTarget.value;
+              //   if (value === Locale.Settings.Lang.All) {
+              //     setFilterLang(undefined);
+              //   } else {
+              //     setFilterLang(value as Lang);
+              //   }
+              // }}  //隐藏所有语言选项
             >
               <option key="all" value={Locale.Settings.Lang.All}>
                 {Locale.Settings.Lang.All}
