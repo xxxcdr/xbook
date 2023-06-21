@@ -313,11 +313,15 @@ export function MaskPage() {
                     {/* <div className={styles["mask-info"] + " one-line"}> //隐藏这段内容的格式 */}
                     {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
                       Locale.Settings.Lang.Options[m.lang]
-                    } / ${m.modelConfig.model}`} //隐藏预设制和用了什么模型这一段话 */}
+                    } / ${m.modelConfig.model}`} //隐藏预设制了几句话和用了什么模型这一段话 */}
                   </div>
                   {/* </div> */}
                 </div>
-                <div className={styles["mask-actions"]}>
+                <div
+                  className={styles["mask-actions"]}
+                  style={{ whiteSpace: "nowrap" }}
+                >
+                  {/* 上面是测试是否可以摘同一行显示 */}
                   <IconButton
                     icon={<AddIcon />}
                     text={Locale.Mask.Item.Chat}
