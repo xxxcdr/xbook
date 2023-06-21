@@ -270,8 +270,8 @@ export function MaskPage() {
               onInput={(e) => onSearch(e.currentTarget.value)}
             />
             <select
-              // className={styles["mask-filter-lang"]}
-              value={filterLang ?? Locale.Settings.Lang.All}
+              className={styles["mask-filter-lang"]}
+              // value={filterLang ?? Locale.Settings.Lang.All} //隐藏所有语言这一段
               onChange={(e) => {
                 const value = e.currentTarget.value;
                 if (value === Locale.Settings.Lang.All) {
@@ -313,7 +313,7 @@ export function MaskPage() {
                     <div className={styles["mask-info"] + " one-line"}>
                       {/* {`${Locale.Mask.Item.Info(m.context.length)} / ${
                       Locale.Settings.Lang.Options[m.lang]
-                    } / ${m.modelConfig.model}`} */}
+                    } / ${m.modelConfig.model}`} //隐藏预设制和用了什么模型这一段话 */}
                     </div>
                   </div>
                 </div>
