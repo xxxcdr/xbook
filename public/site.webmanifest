@@ -3,12 +3,12 @@
     "short_name": "ChatBOOK", //手机桌面快捷方式可以看到的名字
     "icons": [
       {
-        "src": "/gptmanlogo192*192.png",
+        "src": "/gptmanlogo192×192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/gptmanlogo512*512.png",
+        "src": "/gptmanlogo512×512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
