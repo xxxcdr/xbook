@@ -1514,7 +1514,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f4d6",
+    avatar: "2197",
     name: "《斯坦福大学人生设计课》",
     context: [
       {
