@@ -173,7 +173,7 @@ const cn = {
     },
   },
   Store: {
-    DefaultTopic: "点击AI-Book选书吧",
+    DefaultTopic: "👆点击上方AI-Book选书吧",
     BotHello: "有什么可以帮你的吗",
     Error: "出错了，稍后重试吧",
     Prompt: {
