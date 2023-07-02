@@ -200,8 +200,8 @@ const cn = {
   Mask: {
     Name: "AI-Book",
     Page: {
-      Title: "预设AI-Book",
-      SubTitle: (count: number) => `${count} 个预设AI-Book定义`,
+      Title: "挑选一本书",
+      SubTitle: (count: number) => `现在开始，与书籍背后的灵魂思维碰撞`,
       Search: "搜索AI-Book",
       Create: "新建",
     },
