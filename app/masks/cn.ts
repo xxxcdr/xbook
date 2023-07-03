@@ -1561,7 +1561,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f491",
+    avatar: "262f",
     name: "《王阳明哲学》",
     context: [
       {
