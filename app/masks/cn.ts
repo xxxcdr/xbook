@@ -1616,7 +1616,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f491",
+    avatar: "1f932",
     name: "《不管教的勇气》",
     context: [
       {
@@ -1663,7 +1663,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f491",
+    avatar: "1f393",
     name: "《自驱型成长》",
     context: [
       {
