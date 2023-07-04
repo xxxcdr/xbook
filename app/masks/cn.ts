@@ -1778,7 +1778,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f5d2",
+    avatar: "1f4d1",
     name: "《卡片笔记写作法》",
     context: [
       {
