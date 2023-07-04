@@ -1711,7 +1711,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f4b0",
     name: "《有钱人和你想的不一样》",
     context: [
       {
@@ -1778,7 +1778,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f5c2",
     name: "《卡片笔记写作法》",
     context: [
       {
@@ -1825,7 +1825,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f5fb",
     name: "《金字塔原理》",
     context: [
       {
@@ -1871,7 +1871,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f463",
     name: "《人类简史》",
     context: [
       {
@@ -1917,7 +1917,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f331",
     name: "《纳瓦尔宝典》",
     context: [
       {
@@ -1960,7 +1960,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f4dd",
     name: "《商业模式新生代(个人篇)》",
     context: [
       {
@@ -2003,7 +2003,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f393",
+    avatar: "1f339",
     name: "《什么样的爱值得勇敢一次》",
     context: [
       {
