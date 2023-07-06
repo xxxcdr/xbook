@@ -2281,7 +2281,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "\u2699",
+    avatar: "1f48e",
     name: "《创新与企业家精神》",
     context: [
       {
@@ -2327,7 +2327,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "\u2696",
+    avatar: "1f52e",
     name: "《不公平优势》",
     context: [
       {
