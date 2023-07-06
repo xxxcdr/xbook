@@ -2051,7 +2051,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "1f914",
     name: "《思考的技术》",
     context: [
       {
@@ -2100,7 +2100,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "1f3a4",
     name: "《即兴演讲》",
     context: [
       {
@@ -2142,7 +2142,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "1f494",
     name: "《人性的弱点》",
     context: [
       {
@@ -2185,7 +2185,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "1f308",
     name: "《人性的优点》",
     context: [
       {
@@ -2226,7 +2226,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "1f464",
     name: "《一人企业》",
     context: [
       {
@@ -2281,7 +2281,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "1f3d7",
     name: "《创新与企业家精神》",
     context: [
       {
@@ -2327,7 +2327,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f339",
+    avatar: "u+2696",
     name: "《不公平优势》",
     context: [
       {
