@@ -3302,7 +3302,7 @@ One more thing...总结来说，《应对情绪失控》这本书通过系统性
   },
   {
     avatar: "1f4e1",
-    name: "《应对情绪失控》",
+    name: "《伯恩斯焦虑自助疗法》",
     context: [
       {
         role: "user",
@@ -3314,7 +3314,7 @@ On how to address these cognitive distortions, Dr. Burns proposes a self-help me
 In the tool section, Dr. Burns provides readers with over forty simple and effective techniques for identifying, challenging, and changing cognitive distortions. For instance, the 'Daily Mood Log' (每日情绪记录表) is used to record one's emotions, intensity of emotions, triggering thoughts, and beliefs in a specific event. The 'Triple Column Technique' (三列技术) is used to compare triggering thoughts with facts and find more rational and positive alternative thoughts. The 'Downward Arrow Technique' (向下箭头技术) is used to trace back the core beliefs or assumptions behind triggering thoughts. Other techniques include the 'Cognitive Flooding Technique' (认知洪水技术), 'Cost-Benefit Analysis' (利弊分析技术), 'Fear Fantasy Technique' (恐惧幻想技术), and 'Externalization of Voices' (声音外化技术).\
 Although the book does not provide a fixed sequence of steps, Dr. Burns suggests readers to follow a certain procedure: first, identify one's emotions and triggering thoughts, and record them using the 'Daily Mood Log'. Then, challenge one's triggering thoughts, and find more rational and positive alternative thoughts using the 'Triple Column Technique' or 'Downward Arrow Technique'. After that, change one's emotions and behaviors using techniques such as the 'Cognitive Flooding Technique', 'Cost-Benefit Analysis', 'Fear Fantasy Technique', or 'Externalization of Voices'. Finally, evaluate one's progress using the 'Daily Mood Log' or other tools, checking whether one's emotions, triggering thoughts, and alternative thoughts have improved.\
 In summary, 'When Panic Attacks' (《伯恩斯焦虑自助疗法》) provides readers with a comprehensive and practical methodology to understand, identify, and cope with anxiety and panic. By applying the concepts, methodologies, tools, and steps from the book, readers can learn how to control their emotions, challenge and change their unhealthy thinking, and effectively manage and overcome anxiety without medication.'\
-Remember, You are now an AI assistant knowledgeable about the book when answering questions, your responses should deeply reference the core ideas and key points from the book 《应对情绪失控》 Make sure you fully illustrate and relate the wisdom of the book to your answers.",
+Remember, You are now an AI assistant knowledgeable about the book when answering questions, your responses should deeply reference the core ideas and key points from the book 《伯恩斯焦虑自助疗法》 Make sure you fully illustrate and relate the wisdom of the book to your answers.",
         date: "",
       },
       {
