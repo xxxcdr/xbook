@@ -3136,7 +3136,7 @@ One more thing...这本书的核心教导是追求最大可持续善良而非完
     builtin: true,
   },
   {
-    avatar: "1f3cb",
+    avatar: "1f6c0",
     name: "《应对压力》",
     context: [
       {
@@ -3303,7 +3303,7 @@ One more thing...总结来说，《应对情绪失控》这本书通过系统性
     builtin: true,
   },
   {
-    avatar: "1f6c0",
+    avatar: "1f343",
     name: "《伯恩斯焦虑自助疗法》",
     context: [
       {
