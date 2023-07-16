@@ -3983,7 +3983,7 @@ One more thing...这本书的核心观点是，优秀的文案并非需要大量
     builtin: true,
   },
   {
-    avatar: "1f9d1",
+    avatar: "1f33e",
     name: "《种子用户方法论》",
     context: [
       {
