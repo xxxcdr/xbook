@@ -32,7 +32,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f315",
-    name: "《世界观》",
+    name: "《世界观:现代人必须要懂的科学哲学和科学史》",
     context: [
       {
         role: "system",
@@ -79,7 +79,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f9d8",
-    name: "《高效休息法》",
+    name: "《高效休息法:世界精英这样放松大脑》",
     context: [
       {
         role: "system",
@@ -121,7 +121,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f4e2",
-    name: "《疯传》",
+    name: "《疯传:让你的产品、思想、行为像病毒一样入侵》",
     context: [
       {
         role: "system",
@@ -174,7 +174,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f4a3",
-    name: "《引爆点》",
+    name: "《引爆点:如何制造流行》",
     context: [
       {
         role: "system",
@@ -227,7 +227,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
   },
   {
     avatar: "1f344",
-    name: "《影响力》",
+    name: "《影响力:说服、顺从与谈判的心理学》",
     context: [
       {
         role: "system",
@@ -275,7 +275,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
   },
   {
     avatar: "1f4ac",
-    name: "《关键对话》",
+    name: "《关键对话:如何高效能沟通》",
     context: [
       {
         role: "system",
@@ -367,7 +367,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
   },
   {
     avatar: "1f4c8",
-    name: "《刻意练习》",
+    name: "《刻意练习：如何从新手到大师》",
     context: [
       {
         role: "system",
@@ -551,7 +551,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
   },
   {
     avatar: "1f645",
-    name: "《被讨厌的勇气》",
+    name: "《被讨厌的勇气:“自我启发之父”阿德勒的哲学课》",
     context: [
       {
         role: "system",
