@@ -4095,7 +4095,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f4b7",
+    avatar: "1f30a",
     name: "《浪潮式发售》",
     context: [
       {
