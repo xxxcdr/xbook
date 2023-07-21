@@ -4294,7 +4294,7 @@ One more thing...以上四点方法论和工具只是贝佐斯和亚马逊成功
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f6e3",
     name: "《跨越鸿沟》",
     context: [
       {
@@ -4354,7 +4354,7 @@ One more thing... 注意到这本书强调的两个鸿沟是非常重要的。�
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f503",
     name: "《U型理论》",
     context: [
       {
@@ -4415,7 +4415,7 @@ One more thing...\n\
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f504",
     name: "《系统之美》",
     context: [
       {
@@ -4470,7 +4470,7 @@ One more thing...该书提供了许多系统思考的工具来解决问题。常
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f5ef",
     name: "《语言的魔力》",
     context: [
       {
@@ -4526,7 +4526,7 @@ One more thing...那么，在您的生活中，有哪些信念或思维模式在
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f3eb",
     name: "《教学的模样》",
     context: [
       {
@@ -4588,7 +4588,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f6cd",
     name: "《营销5.0：后互联网时代的企业战略营销》",
     context: [
       {
@@ -4639,7 +4639,7 @@ One more thing...此书强调了数字化时代对于营销的重要性，以及
     builtin: true,
   },
   {
-    avatar: "1f4e6",
+    avatar: "1f46a",
     name: "《不吼不叫：如何平静地让孩子与父母合作》",
     context: [
       {
