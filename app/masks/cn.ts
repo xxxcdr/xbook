@@ -4294,7 +4294,7 @@ One more thing...以上四点方法论和工具只是贝佐斯和亚马逊成功
     builtin: true,
   },
   {
-    avatar: "1f6e3",
+    avatar: "1f309",
     name: "《跨越鸿沟》",
     context: [
       {
@@ -4470,7 +4470,7 @@ One more thing...该书提供了许多系统思考的工具来解决问题。常
     builtin: true,
   },
   {
-    avatar: "1f5ef",
+    avatar: "1f399",
     name: "《语言的魔力》",
     context: [
       {
@@ -4588,7 +4588,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f6cd",
+    avatar: "1f4b3",
     name: "《营销5.0：后互联网时代的企业战略营销》",
     context: [
       {
