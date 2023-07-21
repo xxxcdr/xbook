@@ -4470,7 +4470,7 @@ One more thing...该书提供了许多系统思考的工具来解决问题。常
     builtin: true,
   },
   {
-    avatar: "1f399",
+    avatar: "1f4e3",
     name: "《语言的魔力》",
     context: [
       {
