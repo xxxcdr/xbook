@@ -4847,7 +4847,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f381",
+    avatar: "1f9f2",
     name: "《行为设计学：让创意更有黏性》",
     context: [
       {
@@ -4894,7 +4894,7 @@ One more thing...你是否曾经遇到过一个令人难以忘怀的经历，那
     builtin: true,
   },
   {
-    avatar: "1f381",
+    avatar: "1f4cc",
     name: "《行为设计学：掌控关键决策》",
     context: [
       {
@@ -4954,7 +4954,7 @@ One more thing...记住，灵活性、实验性和持续学习是做好决策的
     builtin: true,
   },
   {
-    avatar: "1f381",
+    avatar: "1f6e0",
     name: "《行为设计学：零成本改变》",
     context: [
       {
