@@ -4954,7 +4954,7 @@ One more thing...记住，灵活性、实验性和持续学习是做好决策的
     builtin: true,
   },
   {
-    avatar: "1f6e0",
+    avatar: "1f5a7",
     name: "《行为设计学：零成本改变》",
     context: [
       {
