@@ -5399,7 +5399,7 @@ One more thing...在我们的日常生活中，我们经常会面临各种诱惑
     builtin: true,
   },
   {
-    avatar: "1f4aa",
+    avatar: "1f52c",
     name: "《精进:如何成为一个很厉害的人》",
     context: [
       {
