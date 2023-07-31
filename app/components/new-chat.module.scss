@@ -177,9 +177,9 @@
     justify-content: center;
     font-size: 12px;
     .search-bar {
-      background-color: green; // 设定搜索框为绿色
+      background-color: var(--primary); // 设定搜索框为绿色
     }
-    
+
     .skip {
       margin-left: 10px;
     }
