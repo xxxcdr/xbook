@@ -5588,7 +5588,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f436",
     name: "《小狗钱钱：引导孩子正确认识财富、创造财富的'金钱童话'》",
     context: [
       {
@@ -5643,7 +5643,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4b0",
     name: "《彼得·林奇的成功投资》",
     context: [
       {
@@ -5686,7 +5686,7 @@ One more thing... 这本书的重要观点之一是，普通投资者可以通�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4b0",
     name: "《投资最重要的事》",
     context: [
       {
@@ -5745,7 +5745,7 @@ One more thing...通过这本书，我们可以学到投资的逻辑和智慧，
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4d8",
     name: "《PBL项目制学习》",
     context: [
       {
@@ -5803,7 +5803,7 @@ One more thing...PBL教学方法在数字化时代具有很强的适应性和发
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "2764",
     name: "《爱有8种习惯:消除不安全感，让生命自由安宁》",
     context: [
       {
@@ -5892,7 +5892,7 @@ One more thing...这本书的关键在于认识到爱是一种能流动、传递
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f9e0",
     name: "《效率脑科学:卓有成效地完成每一项工作》",
     context: [
       {
@@ -5937,7 +5937,7 @@ One more thing...通过深入研究大脑的运作方式和响应模式，我们
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "2b06",
     name: "《超级转化率：如何让客户快速下单》",
     context: [
       {
@@ -5998,7 +5998,7 @@ One more thing... 本书的核心观点是通过系统性方法和实际技巧�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f3ad",
     name: "《故事:材质·结构·风格和银幕剧作的原理》",
     context: [
       {
@@ -6103,7 +6103,7 @@ One more thing... 在创作故事时，我们常常要考虑观众的情感共�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f465",
     name: "《李白传》",
     context: [
       {
@@ -6146,7 +6146,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "2753",
     name: "《从“为什么”开始》or《超级激励者》",
     context: [
       {
