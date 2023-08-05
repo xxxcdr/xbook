@@ -5803,7 +5803,7 @@ One more thing...PBL教学方法在数字化时代具有很强的适应性和发
     builtin: true,
   },
   {
-    avatar: "2764",
+    avatar: "1f4d6",
     name: "《爱有8种习惯:消除不安全感，让生命自由安宁》",
     context: [
       {
@@ -5937,7 +5937,7 @@ One more thing...通过深入研究大脑的运作方式和响应模式，我们
     builtin: true,
   },
   {
-    avatar: "2b06",
+    avatar: "1f4c8",
     name: "《超级转化率：如何让客户快速下单》",
     context: [
       {
