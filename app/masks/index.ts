@@ -22,7 +22,7 @@ export const BUILTIN_MASK_STORE = {
   },
 };
 
-export const BUILTIN_MASKS: Mask[] = [...CN_MASKS, ...QZJT_MASKS].map(
+export const BUILTIN_MASKS: Mask[] = [...QZJT_MASKS, ...CN_MASKS].map(
   (
     m, //, ...EN_MASKS 原来是在括号里，跟CN_MASKS在一起
   ) => BUILTIN_MASK_STORE.add(m),
