@@ -1,10 +1,18 @@
 import { Mask } from "../store/mask";
 import { CN_MASKS } from "./cn";
-import { QZJT_MASKS } from "./qzjt";
 import { HEXIN_MASKS } from "./hexin";
-import { XLFD_MASKS } from "./xlfd";
+import { JINGJIXUE_MASKS } from "./jingjixue";
+import { WENXUE_MASKS } from "./wenxue";
 import { XITONG_MASKS } from "./xitong";
-//import { EN_MASKS } from "./en";  隐藏英文AI-Book
+import { ZENGZHANG_MASKS } from "./zengzhang";
+import { ZHUANJI_MASKS } from "./zhuanji";
+import { AIQING_MASKS } from "./aiqing";
+import { JIATING_MASKS } from "./jiating";
+import { XINLIXUE_MASKS } from "./xinlixue";
+import { QINGXU_MASKS } from "./qingxu";
+import { GUANLIXUE_MASKS } from "./guanlixue";
+
+// import { EN_MASKS } from "./en";
 
 import { type BuiltinMask } from "./typing";
 export { type BuiltinMask } from "./typing";
@@ -19,7 +27,7 @@ export const BUILTIN_MASK_STORE = {
     return this.masks[id] as Mask | undefined;
   },
   add(m: BuiltinMask) {
-    const mask = { ...m, id: this.buildinId++ };
+    const mask = { ...m, id: this.buildinId++, builtin: true };
     this.masks[mask.id] = mask;
     return mask;
   },
@@ -27,10 +35,17 @@ export const BUILTIN_MASK_STORE = {
 
 export const BUILTIN_MASKS: Mask[] = [
   ...HEXIN_MASKS,
-  ...QZJT_MASKS,
-  ...CN_MASKS,
-  ...XLFD_MASKS,
+  ...AIQING_MASKS,
+  ...GUANLIXUE_MASKS,
+  ...JINGJIXUE_MASKS,
+  ...WENXUE_MASKS,
   ...XITONG_MASKS,
+  ...ZENGZHANG_MASKS,
+  ...ZHUANJI_MASKS,
+  ...JIATING_MASKS,
+  ...XINLIXUE_MASKS,
+  ...QINGXU_MASKS,
+  ...CN_MASKS,
 ].map(
   (
     m, //, ...EN_MASKS 原来是在括号里，跟CN_MASKS在一起
