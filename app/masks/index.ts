@@ -3,7 +3,7 @@ import { CN_MASKS } from "./cn";
 import { QZJT_MASKS } from "./qzjt";
 import { HEXIN_MASKS } from "./hexin";
 import { XLFD_MASKS } from "./xlfd";
-import { XTSK_MASKS } from "./xtsk";
+import { XITONG_MASKS } from "./xitong";
 //import { EN_MASKS } from "./en";  隐藏英文AI-Book
 
 import { type BuiltinMask } from "./typing";
@@ -30,7 +30,7 @@ export const BUILTIN_MASKS: Mask[] = [
   ...QZJT_MASKS,
   ...CN_MASKS,
   ...XLFD_MASKS,
-  ...XTSK_MASKS,
+  ...XITONG_MASKS,
 ].map(
   (
     m, //, ...EN_MASKS 原来是在括号里，跟CN_MASKS在一起
