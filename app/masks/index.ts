@@ -1,7 +1,7 @@
 import { Mask } from "../store/mask";
 import { CN_MASKS } from "./cn";
 import { QZJT_MASKS } from "./qzjt";
-import { HX_MASKS } from "./hx";
+import { HEXIN_MASKS } from "./hexin";
 import { XLFD_MASKS } from "./xlfd";
 import { XTSK_MASKS } from "./xtsk";
 //import { EN_MASKS } from "./en";  隐藏英文AI-Book
@@ -26,7 +26,7 @@ export const BUILTIN_MASK_STORE = {
 };
 
 export const BUILTIN_MASKS: Mask[] = [
-  ...HX_MASKS,
+  ...HEXIN_MASKS,
   ...QZJT_MASKS,
   ...CN_MASKS,
   ...XLFD_MASKS,
