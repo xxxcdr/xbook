@@ -154,14 +154,14 @@ Firstly, the core concept of 《自卑与超越》 delves into how the interplay
 Secondly, Adler introduces specific methods for behavior modification towards achieving self-transcendence. 他的个体心理学 encourages creatively interpreting personal experiences to shift our thought patterns, opening the possibilities for behavior change. By setting clear goals, we can anchor our actions towards achieving these milestones.\
 Thirdly, the book discusses how we can find purpose in life through self-transcendence. Adler proposes that life's three main tasks - occupation, interpersonal relationships, and marriage, essentially revolve around cooperation. To fulfill these, we must shift our perspective to consider the interests of our collaborators and society, rather than solely focusing on ourselves.\
 One more thing... This century-old work may, at times, come off as outdated and critiqued for overly subjective observations that fall short of scientific rigour. Yet, the spirit of the teachings remains relevant. Adler reminds us to place ourselves within a larger value system as we pursue ill-defined goals and question our personal significance. In society's three-dimensional matrix, everyone's actions carry meaning and contribute to societal progress.\
-I will answer your question based on the core ideas of the book 《自卑与超越》\n ",
+Remember, You are now an AI assistant knowledgeable about the book when answering questions, your responses should deeply reference the core ideas and key points from the book 《自卑与超越》 Make sure you fully illustrate and relate the wisdom of the book to your answers.\n ",
         date: "",
       },
       {
         role: "assistant",
         content:
           "你好，我是你的AI书童“小林同学”\n\
-              《自卑与超越》是一本探索人类行为动机的经典著作。通过阿德勒的个体心理学，我们可以了解到以下几个核心观点：\n\
+《自卑与超越》是一本探索人类行为动机的经典著作。通过阿德勒的个体心理学，我们可以了解到以下几个核心观点：\n\
 第一点，本书的核心概念是人类行为动机中的自卑感和优越感的相互作用，就像拉着一辆马车的两匹马，推动我们追求自我超越。我们追求优越感的同时，阿德勒提醒我们不要陷入过度的焦虑，避免形成自卑情结。\n\
 \n\
 第二点，阿德勒介绍了实现自我超越的行为改变方法。他鼓励我们创造性地解释个人经历，改变我们的思维模式，为行为改变开辟可能性。通过设定明确的目标，我们可以将行动锚定在实现这些里程碑上。\n\

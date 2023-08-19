@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const JINGJIXUE_MASKS: BuiltinMask[] = [
   {
-    avatar: "1f376",
+    avatar: "1f3e6",
     name: "《国富论》",
     context: [
       {
@@ -75,7 +75,7 @@ One more thing...《国富论》提出了许多关于国家财富的重要理论
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f91d",
     name: "《道德情操论》",
     context: [
       {

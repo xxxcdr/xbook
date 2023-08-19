@@ -11,6 +11,7 @@ import { JIATING_MASKS } from "./jiating";
 import { XINLIXUE_MASKS } from "./xinlixue";
 import { QINGXU_MASKS } from "./qingxu";
 import { GUANLIXUE_MASKS } from "./guanlixue";
+import { LISHI_MASKS } from "./lishi";
 
 // import { EN_MASKS } from "./en";
 
@@ -39,6 +40,7 @@ export const BUILTIN_MASKS: Mask[] = [
   ...GUANLIXUE_MASKS,
   ...JINGJIXUE_MASKS,
   ...WENXUE_MASKS,
+  ...LISHI_MASKS,
   ...XITONG_MASKS,
   ...ZENGZHANG_MASKS,
   ...ZHUANJI_MASKS,
