@@ -326,7 +326,13 @@ export function MaskPage() {
                       navigate(Path.Chat);
                     }}
                   />
-                  {m.builtin ? null : ( // /> //   onClick={() => setEditingMaskId(m.id)} //   text={Locale.Mask.Item.View} //   icon={<EyeIcon />} // <IconButton
+                  {m.builtin ? (
+                    <IconButton
+                      icon={<EyeIcon />}
+                      text={Locale.Mask.Item.View}
+                      onClick={() => setEditingMaskId(m.id)}
+                    />
+                  ) : (
                     <IconButton
                       icon={<EditIcon />}
                       text={Locale.Mask.Item.Edit}
