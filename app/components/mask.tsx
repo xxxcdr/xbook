@@ -228,6 +228,10 @@ export function MaskPage() {
     downloadAs(JSON.stringify(masks), FileName.Masks);
   };
 
+  function copyMaskLink(): void {
+    throw new Error("Function not implemented.");
+  }
+
   return (
     <ErrorBoundary>
       <div className={styles["mask-page"]}>
@@ -351,9 +355,9 @@ export function MaskPage() {
                     <IconButton
                       icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
                       text="分享这本书" // 或者你可以使用合适的本地化字符串
-                      onClick={() => {
-                        // 在此处插入复制的逻辑
-                      }}
+                      // onClick={() => {
+                      //   // 在此处插入复制的逻辑
+                      onClick={copyMaskLink}
                     />
                   }
 
