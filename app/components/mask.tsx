@@ -340,6 +340,7 @@ export function MaskPage() {
                     />
                   )} */}
                   {/* //隐藏mask面具/书籍的查看按钮 */}
+
                   {!m.builtin && (
                     <IconButton
                       icon={<DeleteIcon />}
