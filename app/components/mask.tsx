@@ -51,12 +51,6 @@ export function MaskConfig(props: {
     props.updateMask((mask) => (mask.modelConfig = config));
   };
 
-  const copyMaskLink = () => {
-    const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
-    copyToClipboard(maskLink);
-  };
-  // 导入utils文件，为了复制一个有效的面具/书籍链接
-
   return (
     <>
       <ContextPrompts
