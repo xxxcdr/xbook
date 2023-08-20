@@ -60,10 +60,16 @@ export function MaskConfig(props: {
     copyToClipboard(maskLink);
   };
 
-  const CopyButton: React.FC = () => {
+  const CopyButton = () => {
     const handleCopy = () => {
-      123; // 复制逻辑
+      const maskId = "100000"; // 这里替换成你的 mask id
+
+      const link = `https://chatbookai.club/#/new-chat?mask=${maskId}`;
+      navigator.clipboard.writeText(link);
+
+      alert("链接已复制！");
     };
+
     return (
       <IconButton icon={<CopyIcon />} text="分享这本书" onClick={handleCopy} />
     );
