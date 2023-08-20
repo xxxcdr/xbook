@@ -341,7 +341,7 @@ export function MaskPage() {
                   )} */}
                   {/* 隐藏mask面具/书籍的查看按钮 */}
 
-                  {/* {gpt-4给的内容好像错的
+                  {
                     <IconButton
                       icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
                       text="分享这本书" // 或者你可以使用合适的本地化字符串
@@ -349,7 +349,7 @@ export function MaskPage() {
                         // 在此处插入复制的逻辑
                       }}
                     />
-                  } */}
+                  }
 
                   {!m.builtin && (
                     <IconButton
