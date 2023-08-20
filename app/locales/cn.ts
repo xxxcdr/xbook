@@ -223,11 +223,6 @@ const cn = {
       Avatar: "AI-Book头像",
       Name: "AI-Book名称",
     },
-    Share: {
-      Title: "分享此面具",
-      SubTitle: "生成此面具的直达链接",
-      Action: "复制链接",
-    },
   },
   NewChat: {
     Return: "返回",
