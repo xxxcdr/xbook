@@ -54,11 +54,22 @@ export function MaskConfig(props: {
     props.updateMask((mask) => (mask.modelConfig = config));
   };
 
+  // 测试导入分享一本书的按钮背后的内容（开始
   const copyMaskLink = () => {
     const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
     copyToClipboard(maskLink);
   };
-  // 测试
+
+  const CopyButton: React.FC = () => {
+    const handleCopy = () => {
+      123; // 复制逻辑
+    };
+    return (
+      <IconButton icon={<CopyIcon />} text="分享这本书" onClick={handleCopy} />
+    );
+  };
+
+  // 测试导入分享一本书的按钮背后的内容（结束）
 
   return (
     <>
@@ -231,6 +242,10 @@ export function MaskPage() {
     downloadAs(JSON.stringify(masks), FileName.Masks);
   };
 
+  function handleCopy(): void {
+    throw new Error("Function not implemented.");
+  }
+
   return (
     <ErrorBoundary>
       <div className={styles["mask-page"]}>
@@ -350,6 +365,7 @@ export function MaskPage() {
                   )} */}
                   {/* 隐藏mask面具/书籍的查看按钮 */}
 
+                  {/* // 测试导入分享一本书的按钮背后的内容（开始 */}
                   {
                     <IconButton
                       icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
@@ -359,6 +375,8 @@ export function MaskPage() {
                       }}
                     />
                   }
+
+                  {/* // 测试导入分享一本书的按钮背后的内容（结束 */}
 
                   {!m.builtin && (
                     <IconButton
