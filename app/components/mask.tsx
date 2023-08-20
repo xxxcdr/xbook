@@ -21,7 +21,7 @@ import { useNavigate } from "react-router-dom";
 
 import chatStyle from "./chat.module.scss";
 import { useEffect, useState } from "react";
-import { downloadAs } from "../utils";
+import { copyToClipboard, downloadAs } from "../utils";
 import { Updater } from "../api/openai/typing";
 import { ModelConfigList } from "./model-config";
 import { FileName, Path } from "../constant";
@@ -50,6 +50,12 @@ export function MaskConfig(props: {
     updater(config);
     props.updateMask((mask) => (mask.modelConfig = config));
   };
+
+  const copyMaskLink = () => {
+    const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
+    copyToClipboard(maskLink);
+  };
+  // 导入utils文件，为了复制一个有效的面具/书籍链接
 
   return (
     <>
@@ -339,7 +345,17 @@ export function MaskPage() {
                       onClick={() => setEditingMaskId(m.id)}
                     />
                   )} */}
-                  {/* //隐藏mask面具/书籍的查看按钮 */}
+                  {/* 隐藏mask面具/书籍的查看按钮 */}
+
+                  {
+                    <IconButton
+                      icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
+                      text="分享这本书" // 或者你可以使用合适的本地化字符串
+                      onClick={() => {
+                        copyMaskLink; // 在此处插入复制的逻辑
+                      }}
+                    />
+                  }
 
                   {!m.builtin && (
                     <IconButton
