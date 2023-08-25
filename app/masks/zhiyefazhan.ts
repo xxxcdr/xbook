@@ -408,7 +408,7 @@ One more thing...这本书的核心观点是要转变传统教育的方式，从
     builtin: true,
   },
   {
-    avatar: "1f5a5",
+    avatar: "1f310",
     name: "《翻转课堂的可汗学院：互联时代的教育革命》",
     context: [
       {
