@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const ZHIYEFAZHAN_MASKS: BuiltinMask[] = [
   {
-    avatar: "1f4d0",
+    avatar: "1f4f1",
     name: "《人人都是产品经理（创新版）：低成本的产品创新方法》",
     context: [
       {
@@ -69,7 +69,7 @@ One more thing...这本书通过MVV框架和具体的步骤来帮助读者进行
     builtin: true,
   },
   {
-    avatar: "1f46a",
+    avatar: "1f3a8",
     name: "《在你身边，为你设计：腾讯的用户体验设计之道》",
     context: [
       {
@@ -135,7 +135,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f46a",
+    avatar: "1f464",
     name: "《用户体验要素：以用户为中心的产品设计》",
     context: [
       {
@@ -186,7 +186,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f46a",
+    avatar: "1f4cf",
     name: "《创新者的任务》",
     context: [
       {
@@ -268,7 +268,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f393",
     name: "《人是如何学习的：大脑、心理、经验及学校》",
     context: [
       {
@@ -339,7 +339,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f3ad",
     name: "《翻转式学习：21世纪学习的革命》",
     context: [
       {
@@ -408,7 +408,7 @@ One more thing...这本书的核心观点是要转变传统教育的方式，从
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f5a5",
     name: "《翻转课堂的可汗学院：互联时代的教育革命》",
     context: [
       {

@@ -401,7 +401,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f4d0",
+    avatar: "1f4cd",
     name: "《目标：简单而有效的常识管理》",
     context: [
       {

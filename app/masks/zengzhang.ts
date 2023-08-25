@@ -668,7 +668,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f4e2",
+    avatar: "1f5fa",
     name: "《蓝海战略：超越产业竞争，开创全新市场》",
     context: [
       {
@@ -729,7 +729,7 @@ One more thing...通过《蓝海战略》这本书，我们可以了解如何超
     builtin: true,
   },
   {
-    avatar: "1f4e2",
+    avatar: "1f4e7",
     name: "《极简市场营销：完整体系和落地打法》",
     context: [
       {
