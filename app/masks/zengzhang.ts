@@ -668,7 +668,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f3dd",
+    avatar: "1f433",
     name: "《蓝海战略：超越产业竞争，开创全新市场》",
     context: [
       {
