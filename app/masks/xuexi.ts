@@ -694,7 +694,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
 \n\
 One more thing...教育的情调不仅仅是一种教学方法，更是一种情感态度和人际关系的体现。这本书通过深入探讨教师与学生之间的情感互动，呼吁教师要有真实的感受和理解，给予孩子尊重、肯定和鼓励，从而激发他们的潜力和创造力。这种情感互动不仅对孩子的学习和成长有着重要的影响，也对教师的教育方式和教学效果产生积极的影响。\n\
 \n\
-      如果对这本书感兴趣，可以点击购买 https://pyybj.xet.tech/s/1NxMxr ，原书有更详实的内容和案例有助于你更好的学习这本书。",
+如果对这本书感兴趣，可以点击购买 https://pyybj.xet.tech/s/1NxMxr ，原书有更详实的内容和案例有助于你更好的学习这本书。",
         date: "",
       },
     ],
