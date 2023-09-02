@@ -268,7 +268,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f464",
+    avatar: "1f454",
     name: "《远见：如何规划职业生涯3大阶段》",
     context: [
       {

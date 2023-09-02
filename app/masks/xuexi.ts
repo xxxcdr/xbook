@@ -337,7 +337,7 @@ One more thing... 批判性思维是培养创新思维和解决问题的关键�
     builtin: true,
   },
   {
-    avatar: "2753",
+    avatar: "1f644",
     name: "《为什么学生不喜欢上学?》",
     context: [
       {
@@ -421,7 +421,7 @@ One more thing... 这本书的核心观点是要让学生喜欢学校，教师�
     builtin: true,
   },
   {
-    avatar: "2753",
+    avatar: "1f58a",
     name: "《认知设计：提升学习体验的艺术》",
     context: [
       {
@@ -484,7 +484,7 @@ One more thing...在设计学习体验时，我们需要关注学习者的个性
     builtin: true,
   },
   {
-    avatar: "2753",
+    avatar: "1f33b",
     name: "《教育的情调》",
     context: [
       {
@@ -540,7 +540,7 @@ One more thing...教育的情调不仅仅是一种教学方法，更是一种情
     builtin: true,
   },
   {
-    avatar: "2753",
+    avatar: "1f5fa",
     name: "《教育的目的》",
     context: [
       {
@@ -620,7 +620,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "2753",
+    avatar: "1f3eb",
     name: "《什么是教育》",
     context: [
       {

@@ -172,7 +172,7 @@ One more thing... 正面管教的核心观点在于，孩子是主动学习者�
     builtin: true,
   },
   {
-    avatar: "1f467",
+    avatar: "1f3c0",
     name: "《养育男孩》",
     context: [
       {
@@ -237,7 +237,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f467",
+    avatar: "1f380",
     name: "《养育女孩》",
     context: [
       {
@@ -302,7 +302,7 @@ One more thing... 在养育女孩的过程中，父母不仅需要关注女孩�
     builtin: true,
   },
   {
-    avatar: "1f467",
+    avatar: "1f469",
     name: "《好妈妈胜过好老师》",
     context: [
       {
