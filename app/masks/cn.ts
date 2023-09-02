@@ -1708,7 +1708,7 @@ One more thing...《秒赞》这本书适用于任何想提升其写作技巧和
     builtin: true,
   },
   {
-    avatar: "2753",
+    avatar: "1f4f0",
     name: "《文案创作完全手册：文案大师教你一步步写出销售力》",
     context: [
       {
