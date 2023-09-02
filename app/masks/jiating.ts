@@ -126,7 +126,7 @@ One more thing...尽管父母对我们的成长和情感有巨大影响，但最
     builtin: true,
   },
   {
-    avatar: "1f467",
+    avatar: "1f5bc",
     name: "《正面管教》",
     context: [
       {
