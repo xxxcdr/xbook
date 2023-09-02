@@ -767,7 +767,7 @@ One more thing...教育是一个复杂而多维的领域，每个人对教育的
     builtin: true,
   },
   {
-    avatar: "1f469",
+    avatar: "1f468",
     name: "《教学的模样》",
     context: [
       {
