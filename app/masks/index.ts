@@ -39,6 +39,7 @@ export const BUILTIN_MASK_STORE = {
 export const BUILTIN_MASKS: Mask[] = [
   ...HEXIN_MASKS,
   ...XUEXI_MASKS,
+  ...JIATING_MASKS,
   ...ZHIYEFAZHAN_MASKS,
   ...GUANLIXUE_MASKS,
   ...JINGJIXUE_MASKS,
@@ -47,7 +48,6 @@ export const BUILTIN_MASKS: Mask[] = [
   ...XITONG_MASKS,
   ...ZENGZHANG_MASKS,
   ...ZHUANJI_MASKS,
-  ...JIATING_MASKS,
   ...XINLIXUE_MASKS,
   ...QINGXU_MASKS,
   ...CN_MASKS,
