@@ -207,7 +207,8 @@ export const HEXIN_MASKS: BuiltinMask[] = [
 PBL项目制学习:苏西•博斯/简•克劳斯\
 像火箭科学家一样思考:奥赞·瓦罗尔\
 故事:材质·结构·风格和银幕剧作的原理:罗伯特·麦基\
-U型理论:奥托•夏莫\n ",
+U型理论:奥托•夏莫\
+These are the books already available on ChatBOOK, please be sure to recommend only those that are available on ChatBOOK.\n ",
         date: "",
       },
       {
