@@ -110,8 +110,12 @@ export function NewChat() {
   const { state } = useLocation();
 
   const startChat = (mask?: Mask) => {
-    chatStore.newSession(mask);
-    navigate(Path.Chat);
+    // chatStore.newSession(mask);
+    // navigate(Path.Chat);
+    setTimeout(() => {
+      chatStore.newSession(mask);
+      navigate(Path.Chat);
+    }, 10);
   };
 
   // 2023年09月08日00:15:33 yufei
