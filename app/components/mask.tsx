@@ -379,7 +379,11 @@ export function MaskPage() {
                       text="分享这本书2" // 或者你可以使用合适的本地化字符串
                       onClick={() => {
                         // 在此处插入复制的逻辑
-                        alert("链接已复制！");
+
+                        // const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
+                        const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${m.id}`;
+                        copyToClipboard(maskLink);
+                        alert("链接已复制！" + maskLink);
                       }}
                     />
                   }
