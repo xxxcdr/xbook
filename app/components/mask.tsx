@@ -72,7 +72,7 @@ export function MaskConfig(props: {
     };
 
     return (
-      <IconButton icon={<CopyIcon />} text="分享这本书1" onClick={handleCopy} />
+      <IconButton icon={<CopyIcon />} text="分这本书1" onClick={handleCopy} />
     );
   };
 
