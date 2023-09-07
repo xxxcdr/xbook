@@ -13,6 +13,9 @@ import Locale from "../locales";
 import { useAppConfig, useChatStore } from "../store";
 import { MaskAvatar } from "./mask";
 
+// 2023-09-08 00:16:14 yufei1
+import { useCommand } from "../command";
+
 function getIntersectionArea(aRect: DOMRect, bRect: DOMRect) {
   const xmin = Math.max(aRect.x, bRect.x);
   const xmax = Math.min(aRect.x + aRect.width, bRect.x + bRect.width);
@@ -106,14 +109,22 @@ export function NewChat() {
   const { state } = useLocation();
 
   const startChat = (mask?: Mask) => {
-    // chatStore.newSession(mask);
-    // navigate(Path.Chat);
-    console.log("tiaozhuan");
-    setTimeout(() => {
-      chatStore.newSession(mask);
-      navigate(Path.Chat);
-    }, 10);
+    chatStore.newSession(mask);
+    navigate(Path.Chat);
   };
+
+  // 2023年09月08日00:15:33 yufei
+  useCommand({
+    mask: (id) => {
+      try {
+        const intId = parseInt(id);
+        const mask = maskStore.get(intId) ?? BUILTIN_MASK_STORE.get(intId);
+        startChat(mask ?? undefined);
+      } catch {
+        console.error("[New Chat] failed to create chat from mask id=", id);
+      }
+    },
+  });
 
   return (
     <div className={styles["new-chat"]}>
