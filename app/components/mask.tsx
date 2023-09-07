@@ -62,16 +62,17 @@ export function MaskConfig(props: {
 
   const CopyButton = () => {
     const handleCopy = () => {
-      const maskId = "100000"; // 这里替换成你的 mask id
+      // copyMaskLink
+      // const maskId = "100000"; // 这里替换成你的 mask id
 
-      const link = `https://chatbookai.club/#/new-chat?mask=${maskId}`;
-      navigator.clipboard.writeText(link);
+      // const link = `https://chatbookai.club/#/new-chat?mask=${maskId}`;
+      // navigator.clipboard.writeText(link);
 
       alert("链接已复制！");
     };
 
     return (
-      <IconButton icon={<CopyIcon />} text="分享这本书" onClick={handleCopy} />
+      <IconButton icon={<CopyIcon />} text="分享这本书1" onClick={handleCopy} />
     );
   };
 
