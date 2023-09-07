@@ -15,6 +15,7 @@ import { MaskAvatar } from "./mask";
 
 // 2023-09-08 00:16:14 yufei1
 import { useCommand } from "../command";
+import { BUILTIN_MASK_STORE } from "../masks";
 
 function getIntersectionArea(aRect: DOMRect, bRect: DOMRect) {
   const xmin = Math.max(aRect.x, bRect.x);
