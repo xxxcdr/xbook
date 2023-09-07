@@ -31,7 +31,7 @@ export const HEXIN_MASKS: BuiltinMask[] = [
     builtin: true,
   },
   {
-    avatar: "2615",
+    avatar: "1f4da",
     name: "书籍推荐官",
     context: [
       {
