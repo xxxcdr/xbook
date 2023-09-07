@@ -383,7 +383,7 @@ export function MaskPage() {
                         // const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
                         const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${m.id}`;
                         copyToClipboard(maskLink);
-                        alert("链接已复制！" + maskLink);
+                        // alert("链接已复制！" + maskLink);
                       }}
                     />
                   }
