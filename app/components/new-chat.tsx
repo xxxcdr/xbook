@@ -106,8 +106,13 @@ export function NewChat() {
   const { state } = useLocation();
 
   const startChat = (mask?: Mask) => {
-    chatStore.newSession(mask);
-    navigate(Path.Chat);
+    // chatStore.newSession(mask);
+    // navigate(Path.Chat);
+    console.log("tiaozhuan");
+    setTimeout(() => {
+      chatStore.newSession(mask);
+      navigate(Path.Chat);
+    }, 10);
   };
 
   return (
