@@ -54,29 +54,29 @@ export function MaskConfig(props: {
     props.updateMask((mask) => (mask.modelConfig = config));
   };
 
-  // 测试导入分享一本书的按钮背后的内容（开始
-  const copyMaskLink = () => {
-    const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
-    copyToClipboard(maskLink);
-  };
+  // // 测试导入分享一本书的按钮背后的内容（开始
+  // const copyMaskLink = () => {
+  //   const maskLink = `${location.protocol}//${location.host}/#${Path.NewChat}?mask=${props.mask.id}`;
+  //   copyToClipboard(maskLink);
+  // };
 
-  const CopyButton = () => {
-    const handleCopy = () => {
-      // copyMaskLink
-      // const maskId = "100000"; // 这里替换成你的 mask id
+  // const CopyButton = () => {
+  //   const handleCopy = () => {
+  //     // copyMaskLink
+  //     // const maskId = "100000"; // 这里替换成你的 mask id
 
-      // const link = `https://chatbookai.club/#/new-chat?mask=${maskId}`;
-      // navigator.clipboard.writeText(link);
+  //     // const link = `https://chatbookai.club/#/new-chat?mask=${maskId}`;
+  //     // navigator.clipboard.writeText(link);
 
-      alert("链接已复制！");
-    };
+  //     alert("链接已复制！");
+  //   };
 
-    return (
-      <IconButton icon={<CopyIcon />} text="分享这本书1" onClick={handleCopy} />
-    );
-  };
+  //   return (
+  //     <IconButton icon={<CopyIcon />} text="分享这本书1" onClick={handleCopy} />
+  //   );
+  // };
 
-  // 测试导入分享一本书的按钮背后的内容（结束）
+  // // 测试导入分享一本书的按钮背后的内容（结束）
 
   return (
     <>
@@ -376,7 +376,7 @@ export function MaskPage() {
                   {
                     <IconButton
                       icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
-                      text="分享这本书2" // 或者你可以使用合适的本地化字符串
+                      text="分享这本书" // 或者你可以使用合适的本地化字符串
                       onClick={() => {
                         // 在此处插入复制的逻辑
 
