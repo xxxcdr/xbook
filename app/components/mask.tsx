@@ -72,7 +72,7 @@ export function MaskConfig(props: {
     };
 
     return (
-      <IconButton icon={<CopyIcon />} text="分这本书1" onClick={handleCopy} />
+      <IconButton icon={<CopyIcon />} text="分享这本书1" onClick={handleCopy} />
     );
   };
 
@@ -376,9 +376,10 @@ export function MaskPage() {
                   {
                     <IconButton
                       icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
-                      text="分享这本书" // 或者你可以使用合适的本地化字符串
+                      text="分享这本书2" // 或者你可以使用合适的本地化字符串
                       onClick={() => {
                         // 在此处插入复制的逻辑
+                        alert("链接已复制！");
                       }}
                     />
                   }
