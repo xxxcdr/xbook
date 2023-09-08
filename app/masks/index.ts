@@ -14,6 +14,7 @@ import { GUANLIXUE_MASKS } from "./guanlixue";
 import { LISHI_MASKS } from "./lishi";
 import { ZHIYEFAZHAN_MASKS } from "./zhiyefazhan";
 import { XUEXI_MASKS } from "./xuexi";
+import { BOOK1_MASKS } from "./book1";
 
 // import { EN_MASKS } from "./en";
 
@@ -52,6 +53,7 @@ export const BUILTIN_MASKS: Mask[] = [
   ...QINGXU_MASKS,
   ...CN_MASKS,
   ...AIQING_MASKS,
+  ...BOOK1_MASKS,
 ].map(
   (
     m, //, ...EN_MASKS 原来是在括号里，跟CN_MASKS在一起
