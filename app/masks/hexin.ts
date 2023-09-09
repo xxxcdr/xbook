@@ -32,7 +32,7 @@ export const HEXIN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f4da",
-    name: "书籍推荐官",
+    name: "书籍推荐官v1.0",
     context: [
       {
         role: "system",
