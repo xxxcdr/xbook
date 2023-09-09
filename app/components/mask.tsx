@@ -376,7 +376,7 @@ export function MaskPage() {
                   {
                     <IconButton
                       icon={<CopyIcon />} // 请确保已经导入了合适的复制图标
-                      text="分享这本书" // 或者你可以使用合适的本地化字符串
+                      text="分享" // 或者你可以使用合适的本地化字符串分享这本书
                       onClick={() => {
                         // 在此处插入复制的逻辑
 
