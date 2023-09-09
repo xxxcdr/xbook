@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const BOOK1_MASKS: BuiltinMask[] = [
   {
-    avatar: "1f376",
+    avatar: "269b",
     name: "《领导力与新科学》",
     context: [
       {
@@ -95,7 +95,7 @@ One more thing...这本书提供了一个全新的领导力视角，挑战传统
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f300",
     name: "《谁说商业直觉是天生的》",
     context: [
       {
@@ -189,7 +189,7 @@ One more thing...这本书的核心观点是，共情不仅是商业成功的关
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f91d",
     name: "《销售就是要玩转情商: 99%的人都不知道的销售软技巧》",
     context: [
       {
@@ -258,7 +258,7 @@ One more thing... 情商对于销售行业的重要性无法忽视。它不仅�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f504",
     name: "《关系飞轮：用户亲密关系如何左右私域及未来增长浪潮》",
     context: [
       {
@@ -354,7 +354,7 @@ One more thing...这本书的核心观点是，建立亲密关系对于利用私
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f937",
     name: "《钝感力》",
     context: [
       {
@@ -408,7 +408,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4aa",
     name: "《干法》",
     context: [
       {
@@ -496,7 +496,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f3c3",
     name: "《高绩效教练》",
     context: [
       {
@@ -573,7 +573,7 @@ One more thing...教练不仅仅是一种技巧和方法，更是一种态度和
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f44f",
     name: "《高效演讲: 斯坦福最受欢迎的沟通课》",
     context: [
       {
@@ -633,7 +633,7 @@ One more thing... 重要的是要记住，高效沟通和演讲不仅仅是技�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f910",
     name: "《心理医生为什么没有告诉我》",
     context: [
       {
@@ -707,7 +707,7 @@ One more thing... 这本书强调了自助和个性化治疗的重要性。每�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f6ac",
     name: "《这书能让你戒烟》",
     context: [
       {
@@ -771,7 +771,7 @@ One more thing...《这书能让你戒烟》这本书通过揭示吸烟的本质
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4c6",
     name: "《掌控习惯：如何养成好习惯并戒除坏习惯》",
     context: [
       {
@@ -837,7 +837,7 @@ One more thing... 你有哪些习惯想要养成或戒除？从这本书中你�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f374",
     name: "《好好吃饭：无须自控力，三观最正的瘦身指南》",
     context: [
       {
