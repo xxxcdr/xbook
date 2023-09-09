@@ -2,7 +2,7 @@ import { BuiltinMask } from "./typing";
 
 export const BOOK1_MASKS: BuiltinMask[] = [
   {
-    avatar: "269b",
+    avatar: "1f4ab",
     name: "《领导力与新科学》",
     context: [
       {
