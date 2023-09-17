@@ -936,7 +936,7 @@ One more thing... 这本书的核心思想是：通过改变我们的饮食环�
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f494",
     name: "《原生家庭：如何修补自己的性格缺陷》",
     context: [
       {
@@ -1013,7 +1013,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f37",
+    avatar: "1f4d1",
     name: "《深度工作：如何有效使用每一点脑力》",
     context: [
       {
@@ -1071,7 +1071,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4a4",
     name: "《睡眠革命：如何让你的睡眠更高效》",
     context: [
       {
@@ -1134,7 +1134,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f3c3",
     name: "《跑步圣经：最全面的跑步训练计划》",
     context: [
       {
@@ -1209,7 +1209,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f37",
+    avatar: "1f91d",
     name: "《他人的力量：如何寻求受益一生的人际关系》",
     context: [
       {
@@ -1271,7 +1271,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f468",
     name: "《忙碌爸爸也能做好爸爸》",
     context: [
       {
@@ -1347,7 +1347,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f468",
     name: "《哈佛商学院最受欢迎的领导课》",
     context: [
       {
@@ -1431,7 +1431,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f4bc",
     name: "《硬核晋升：从实习生到副总裁， 脸书首位华裔女高管的硬核职场智慧清单》",
     context: [
       {
@@ -1495,7 +1495,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f3c6",
     name: "《成就 : 优秀管理者成就自己，卓越管理者成就他人》",
     context: [
       {
@@ -1561,7 +1561,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f35c",
     name: "《学会吃饭：为什么吃，比吃什么、怎么吃更重要》",
     context: [
       {
