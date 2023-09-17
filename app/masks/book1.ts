@@ -1271,7 +1271,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f468",
+    avatar: "1f3e1",
     name: "《忙碌爸爸也能做好爸爸》",
     context: [
       {
