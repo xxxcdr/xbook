@@ -1671,7 +1671,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     modelConfig: {
       model: "gpt-3.5-turbo-16k",
       temperature: 1,
-      max_tokens: 4000,
+      max_tokens: 10000,
       presence_penalty: 0,
       sendMemory: false,
       historyMessageCount: 32,
