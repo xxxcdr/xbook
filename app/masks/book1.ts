@@ -1607,7 +1607,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f376",
+    avatar: "1f52c",
     name: "《品类创新：成为第一的终极战略》",
     context: [
       {
