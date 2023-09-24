@@ -1681,7 +1681,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "2386",
+    avatar: "1f44d",
     name: "《活法》",
     context: [
       {
@@ -1733,7 +1733,7 @@ One more thing...这本书的关键在于它提供了一种全面而深入的人
     builtin: true,
   },
   {
-    avatar: "23b0",
+    avatar: "1f3e2",
     name: "《领导梯队：全面打造领导力驱动型公司》",
     context: [
       {
@@ -1794,7 +1794,7 @@ One more thing... 在这本书中，最重要的一点是强调了领导力的�
     builtin: true,
   },
   {
-    avatar: "23f0",
+    avatar: "1f3c3",
     name: "《早起的奇迹：有钱人早晨8点前都在干什么?》",
     context: [
       {
