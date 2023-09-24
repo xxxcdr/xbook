@@ -2662,7 +2662,7 @@ One more thing...这本书是基于作者多年的研究和实践经验而写成
     builtin: true,
   },
   {
-    avatar: "1f9c0",
+    avatar: "1f6b6",
     name: "《谁动了我的奶酪2：走出迷宫一个走出困境的绝妙方法》",
     context: [
       {
@@ -2724,7 +2724,7 @@ One more thing...最重要的一点是，我们需要积极主动地寻找新的
     builtin: true,
   },
   {
-    avatar: "1f6b6",
+    avatar: "1f9c0",
     name: "《谁动了我的奶酪?》",
     context: [
       {
