@@ -2530,7 +2530,7 @@ One more thing...成为管理者不仅是一种心理上的调整，也是一种
     builtin: true,
   },
   {
-    avatar: "1f3ef",
+    avatar: "1f4ab",
     name: "《原则》",
     context: [
       {
