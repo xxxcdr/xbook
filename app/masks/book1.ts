@@ -2545,11 +2545,11 @@ The core content of this book can be divided into four parts: the author's perso
 \
 - The author's life and work principles: This section mainly introduces a series of principles that the author uses to guide his life and work. These principles are summarized based on his experience, observation and logical reasoning, aiming to help readers improve their thinking ability, decision-making ability and action ability. The author divides these principles into two categories: living principles and working principles. Life principles are principles that guide the individual level, including how to embrace reality, achieve goals, open mind, understand differences, and make effective decisions. Working principles are the principles guiding the organizational level, including how to establish truth-seeking, transparent, meaningful and valuable, allow mistakes, seek consensus, start from credibility, transcend differences and other six aspects. The author explains in detail the meaning, purpose, application methods, examples, and considerations of each principle, and provides some tools and tips to help readers apply the principles.\
 - The core mental model of this book: The five-step process for achieving your Life's aspirations\
-1. Have a clear goal.\
-2. Identify problems that are preventing you from achieving these goals, and don't tolerate problems.\
-3. Accurately diagnose the problem and get to the root of the problem.\
-4. Plan solutions to the problem.\
-5. Do whatever is necessary to implement these plans and achieve results.\
+    1. Have a clear goal.\
+    2. Identify problems that are preventing you from achieving these goals, and don't tolerate problems.\
+    3. Accurately diagnose the problem and get to the root of the problem.\
+    4. Plan solutions to the problem.\
+    5. Do whatever is necessary to implement these plans and achieve results.\
 \
 - The author's working methods and tools: This section introduces some of the methods and tools that the author uses in managing himself and his organization, which are designed and optimized based on his systematic understanding of life, management, economics, and investing to help readers better run and improve their own machines. The author divides these methods and tools into three categories: human methods, management machine methods, and work tools. Employing method refers to the methods of how to find the right people, use the right people, training, evaluation and deployment of talents, etc. These methods are based on the author's very different principles for people to develop, so that members of the organization can play the maximum potential and value. Machine management method refers to how to operate the machine, discover the problem, diagnose the problem, solve the problem, plan and other aspects of the method, these methods are based on the author's principles of embracing reality, achieving goals, making effective decisions and so on, aimed at making the organization's machine can achieve the best performance and efficiency. Work tools refer to various technical and management tools used by the author, such as data, algorithms, software, hardware and other technical tools, as well as management tools such as norms, processes, templates, standards, and cultural tools such as principles, values, creeds, and concepts, which are designed and optimized based on the author's principles of truth-seeking, transparency, meaningfulness and value, and tolerance for mistakes. Designed to help organizations work more efficiently, accurately and reliably.\
 \
@@ -2571,11 +2571,11 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
 \n\
 - 作者的生活和工作原则：这部分主要介绍了作者用来指导自己生活和工作的一系列原则，这些原则是基于他的经验、观察和逻辑推理总结出来的，旨在帮助读者提高思维能力、决策能力和行动能力。作者把这些原则分为两类：生活原则和工作原则。生活原则是指导个人层面的原则，包括了如何拥抱现实、实现目标、开放思维、理解差异、做有效决策等五个方面。工作原则是指导组织层面的原则，包括了如何建立求真透明、有意义有价值、允许犯错、求取共识、从可信度出发、超越分歧等六个方面。作者详细解释了每个原则的含义、目的、应用方法、实例和注意事项，并提供了一些工具和技巧来帮助读者运用这些原则。\n\
   - 本书的核心思维模型：实现人生愿望五步流程\n\
-1. 有明确的目标。\n\
-2. 找到阻碍你实现这些目标的问题，并且不容忍问题。\n\
-3. 准确诊断问题，找到问题的根源。\n\
-4. 规划可以解决问题的方案。\n\
-5. 做一切必要的事来践行这些方案，实现成果。\n\
+    1. 有明确的目标。\n\
+    2. 找到阻碍你实现这些目标的问题，并且不容忍问题。\n\
+    3. 准确诊断问题，找到问题的根源。\n\
+    4. 规划可以解决问题的方案。\n\
+    5. 做一切必要的事来践行这些方案，实现成果。\n\
 \n\
 - 作者的工作方法和工具：这部分主要介绍了作者在管理自己和他的组织时用到的一些方法和工具，这些方法和工具是基于他对生活、管理、经济和投资的系统化理解而设计和优化的，旨在帮助读者更好地运行和改进自己的机器。作者把这些方法和工具分为三类：用人方法、管理机器方法和工作工具。用人方法是指如何找对人、用对人、培训评估调配人才等方面的方法，这些方法是基于作者对人与人大不相同的原则而制定的，旨在让组织的成员能够发挥最大的潜力和价值。管理机器方法是指如何操作机器、发现问题、诊断问题、解决问题、按计划行事等方面的方法，这些方法是基于作者对拥抱现实、实现目标、做有效决策等原则而制定的，旨在让组织的机器能够达到最佳的性能和效率。工作工具是指作者利用的各种技术和管理工具，例如数据、算法、软件、硬件等技术工具，以及规范、流程、模板、标准等管理工具，以及原则、价值观、信条、理念等文化工具，这些工具是基于作者对求真透明、有意义有价值、允许犯错等原则而设计和优化的，旨在帮助组织更高效、准确、可靠地工作。\n\
 \n\
