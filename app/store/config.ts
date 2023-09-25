@@ -90,7 +90,7 @@ export const ALL_MODELS = [
     available: true,
   },
   {
-    name: "chatglm-pro",
+    name: "chatglm_pro",
     available: true,
   },
 ] as const;
