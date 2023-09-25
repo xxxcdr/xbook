@@ -86,12 +86,8 @@ export const ALL_MODELS = [
     available: true,
   },
   {
-    name: "ernie",
-    available: false,
-  },
-  {
-    name: "spark",
-    available: false,
+    name: "SparkDesk",
+    available: true,
   },
   {
     name: "chatglm-pro",
