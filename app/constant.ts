@@ -1,7 +1,7 @@
 export const OWNER = "Yidadaa";
 export const REPO = "ChatGPT-Next-Web";
 export const REPO_URL = `https://m.douban.com/book/`; //地球图标跳小鹅通星球的地址
-export const ISSUE_URL = `https://chatbookai.club`; //bug反馈跳客服二维码的地址
+export const ISSUE_URL = `https://chatbook365.com`; //bug反馈跳客服二维码的地址
 // export const ZILIAOKU_URL = `https://mrhudong.feishu.cn/docx/I2Lcd08bqoFtwqxgMfPcVCEsn7f`; //资料库图标跳资料库内容的地址
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const FETCH_COMMIT_URL = `https://api.github.com/repos/${OWNER}/${REPO}/commits?per_page=1`;
