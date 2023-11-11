@@ -3017,7 +3017,8 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
 \n\
 **One more thing...** 这本书强调了企业不仅要创新产品和服务，还要不断创新其商业模式、组织结构和应对策略，以适应快速变化的市场环境。我们是否可以从这些理论中汲取灵感，应用于我们自己的工作和生活中，以创造更大的价值和影响？\n\
 \n\
-如果对这本书感兴趣，可以点击购买https://pyybj.xet.tech/s/G7LlZ ，原书有更详实的内容和案例有助于你更好的学习这本书。",
+如果对这本书感兴趣，可以点击购买https://pyybj.xet.tech/s/G7LlZ ，原书有更详实的内容和案例有助于你更好的学习这本书。\n\
+*本书版税已全部捐赠给北京春苗慈善基金",
         date: "",
       },
     ],
