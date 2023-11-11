@@ -2864,7 +2864,7 @@ Remember, You are now an AI assistant knowledgeable about the book when answerin
     builtin: true,
   },
   {
-    avatar: "1f916",
+    avatar: "1f302",
     name: "《解码商业模式》",
     context: [
       {
