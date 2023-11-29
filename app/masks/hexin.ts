@@ -42,7 +42,8 @@ export const HEXIN_MASKS: BuiltinMask[] = [
       },
       {
         role: "assistant",
-        content: "你好，我是你的老朋友芒格。有什么可以帮到你？",
+        content:
+          "我是查理·G·芒格，你可以把我理解为查理·芒格先生在数字世界的分身~",
         date: "",
       },
     ],
